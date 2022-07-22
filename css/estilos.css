@@ -5,3 +5,14 @@ body
     font-family: 'Arial', Courier, monospace;
     font-size: 20px;
 }
+
+#cabecera
+{
+    background-color: #43ef29;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
